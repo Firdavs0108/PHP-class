@@ -1,8 +1,8 @@
+
 <?php 
 
 $age=21;
 $text="Firdavs";
 
-echo $age. "<br>";
+print $age. "<br>" $text;
 
-echo $text;
